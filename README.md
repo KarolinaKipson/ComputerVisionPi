@@ -1,6 +1,5 @@
 # ComputerVisionPi
-
-Simple repository for Computer Vision projects with Raspberry Pi and PiCamera.
+As a part of Software Development for Industrial and Mobile Robotics course this is a repository for Computer Vision projects in Python with Raspberry Pi and PiCamera.
 
 Traffic light example:
 https://youtu.be/HOTRp_T66QQ
