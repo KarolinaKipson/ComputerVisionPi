@@ -1,6 +1,6 @@
 # ComputerVisionPi
 
-Simple repository for Computer Vision projects with Raspberry Pi.
+Simple repository for Computer Vision projects with Raspberry Pi and PiCamera.
 
 Traffic light example:
 https://youtu.be/HOTRp_T66QQ
